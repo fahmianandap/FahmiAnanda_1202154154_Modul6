@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "773838876449",
+    "firebase_url": "https://mod6-a700a.firebaseio.com",
+    "project_id": "mod6-a700a",
+    "storage_bucket": "mod6-a700a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773838876449:android:7e7eadfea59f51bf",
+        "android_client_info": {
+          "package_name": "com.example.fahmi.fahmiap_1202154154_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773838876449-j094vka3kr8eln37fcjnsgfmc3ithr4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrIupkKnHuZVuIovORP-JTW-yrNmNO-zY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
